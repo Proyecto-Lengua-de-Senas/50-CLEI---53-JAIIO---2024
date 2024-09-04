@@ -4,9 +4,15 @@ Este GitHub contiene una prueba de concepto como parte de la investigación para
 
 "Intérprete Automático de Lengua de Señas" es parte del proyecto de investigación acreditado y financiado por la Se.C. y T. - UNC, titulado "Enfoque Integral de la IA Aplicada, orientado a Problemas Emergentes". Los autores de este trabajo somos investigadores en formación de grado, dirigidos por la Dra. Ing. Laura C. Diaz Dávila y acompañados por docentes y egresados que conforman el equipo de investigadores del Laboratorio de Investigación y Desarrollo de Software e Inteligencia Artificial (LIDeSIA) de la Facultad de Ciencias Exactas, Físicas y Naturales (FCEFyN) de  en la Universidad Nacional de Córdoba (UNC).
 
+contacto: 
+
 https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/laboratorios/laboratorio-de-investigacion-y-desarrollo-de-software-e-inteligencia-artificial-lidesia/
 
-## Metodología
+Artículo:
+
+Aybar, L., Benitez, J., & Juarez, V. (2024). Intérprete automático de Lengua de Señas. Memorias De Las JAIIO, 10(5), 37-41. Recuperado a partir de https://ojs.sadio.org.ar/index.php/JAIIO/article/view/927
+
+# Metodología
 
 La metodología incluye:
 - Recopilación y preprocesamiento de bases de datos compuestas por videos.
@@ -14,7 +20,7 @@ La metodología incluye:
 - Evaluación comparativa enfocada en la precisión y la capacidad para captar la expresión emocional, basándose en antecedentes recopilados en investigaciones previas sobre traducción automática de lengua de señas usando lenguaje natural y aprendizaje automático.
 
 
-## Prueba de Concepto: Transfer Learning
+# Prueba de Concepto: Transfer Learning
 
 Implementación de transfer learning:
 - Se utilizó YOLOv8, el cual se centra en la detección de objetos en imágenes y no tiene la capacidad de comprender y traducir la lengua de señas como un intérprete humano. Esta tarea es mucho más compleja, ya que implica la interpretación de gestos, movimientos y expresiones faciales.
